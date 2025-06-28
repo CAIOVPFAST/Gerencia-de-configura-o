@@ -1,6 +1,6 @@
 # Segunda Guerra Mundial — Conteúdo Completo
 
-Este repositório reúne todos os tópicos do projeto acadêmico sobre a Segunda Guerra Mundial. Acesse cada etapa do estudo pelos links abaixo:
+ Links abaixo:
 
 - [Contexto Histórico](https://github.com/CAIOVPFAST/Gerencia-de-configura-o/tree/01-contexto-historico)
 - [Envolvidos e suas motivações](https://github.com/CAIOVPFAST/Gerencia-de-configura-o/tree/02-envolvidos-e-suas-motivacoes)
