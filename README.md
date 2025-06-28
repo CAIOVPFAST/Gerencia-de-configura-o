@@ -12,4 +12,4 @@ Este repositório reúne todos os tópicos do projeto acadêmico sobre a Segunda
 
 ---
 
-> Projeto acadêmico desenvolvido para fins de estudo e pesquisa.
+
