@@ -1,4 +1,4 @@
-# Segunda Guerra Mundial — Conteúdo Completo
+# Segunda Guerra Mundial 
 
  Links abaixo:
 
